@@ -1,0 +1,19 @@
+name: turmalina_engine
+description: Turmalina engine package.
+
+homepage: https://softyes.com.br
+repository: https://github.com/turmalina-md/engine
+
+version: 0.1.0
+
+environment:
+  sdk: ^3.12.2
+  flutter: ^3.44.4
+
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
+  very_good_analysis: ^10.3.0
